@@ -7,6 +7,8 @@ var b = "55";
 var c = "402 Stevens";
 var d = "Number 5  ";
 
+console.log(a + "\t\t\t" + b + "\t\t" +c + "\t\t\t" +d)
+
 var a = parseInt (a);         // a is 101
 var b = parseInt (b);        // b is 55
 var c = parseInt (c);       // c is 402
@@ -18,6 +20,8 @@ console.log (b)
 console.log (c) 
 console.log (d) 
 
+console.log(a + "\t\t\t" + b + "\t\t" +c + "\t\t\t" +d)
+
 var a = parseFloat (a);          // a is 101
 var b = parseFloat (b);          // a is 101
 var c = parseFloat (c);          // a is 101
@@ -27,6 +31,8 @@ console.log (a)
 console.log (b) 
 console.log (c) 
 console.log (d) 
+console.log(a + "\t\t\t" + b + "\t\t" +c + "\t\t\t" +d)
+
 
 var a = Number (a);             // a is 101.1
 var b = Number (b);             // b is 55
